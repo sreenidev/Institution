@@ -1,4 +1,4 @@
-package com.multimodule.Implimentaion.bean;
+package com.multimodule.Implimentaion.config;
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
