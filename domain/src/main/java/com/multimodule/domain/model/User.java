@@ -23,7 +23,7 @@ public class User {
     private String parentsName;
     private double percentage;
     private String createdDate;
-    private String updatedDate;
+    private String approvalDate;
     private String status;
     private String statusMessage;
     private String updateMessage;
